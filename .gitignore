@@ -1,0 +1,29 @@
+*.iml
+.gradle
+/local.properties
+local.properties
+
+# Android Studio and IntelliJ IDEA
+.idea/
+.kotlin/
+*.ipr
+*.iws
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build artifacts and caches
+build/
+*/build/
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# Keystores and sensitive signing configs
+*.jks
+*.keystore
+release-key.properties
