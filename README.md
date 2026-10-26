@@ -1,6 +1,22 @@
-# Bloom — PCOS Daily Companion Android Application
+<p align="center">
+  <img src="art/bloom_app_icon.png" width="128" height="128" alt="Bloom App Icon" />
+</p>
 
-A modern, high-fidelity Android application developed with **Kotlin** and **Jetpack Compose**, implementing the exact design system, components, and user experience specified in **Figma Frame 26080030** ([Figma Reference](https://www.figma.com/design/8M5vj7l3yjunFgfpIl2GrD/Bloom-App?node-id=118-72&t=TJ7L5Vq9X4IjrAML-1)).
+<h1 align="center">Bloom — PCOS Daily Companion</h1>
+
+<p align="center">
+  <b>A modern, high-fidelity Android wellness companion developed with Kotlin & Jetpack Compose</b><br>
+  <i>Accurately crafted to match Figma Frame 26080030 &amp; Node 26-7089</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-2.2.10-purple.svg" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-Material_3-green.svg" alt="Compose" />
+  <img src="https://img.shields.io/badge/Architecture-MVVM_%2B_UDF-blue.svg" alt="MVVM" />
+  <img src="https://img.shields.io/badge/DataStore-1.1.1-orange.svg" alt="DataStore" />
+  <img src="https://img.shields.io/badge/Google_Mobile_Ads-23.6.0-red.svg" alt="AdMob" />
+  <img src="https://img.shields.io/badge/Min_SDK-24-informational.svg" alt="Min SDK 24" />
+</p>
 
 ---
 
